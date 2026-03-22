@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-👋 Olá! Eu sou Juliano Miranda
+👋 Olá! Eu sou Juliano Miranda!
 
 Sou natural da Bahia e atualmente curso Engenharia de Software na Unijorge.
 Estou em constante evolução na área de tecnologia, explorando novas ferramentas, conceitos e boas práticas de desenvolvimento.
